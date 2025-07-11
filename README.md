@@ -188,16 +188,6 @@ DELETE http://localhost:8080/api/students/1
 
 ---
 
-## 🎥 Demo Video Requirements
-
-Include in your screen recording:
-
-- ✅ Terminal logs showing PostgreSQL cloud connection
-- ✅ All API endpoints tested via Postman
-- ✅ Validations and error responses
-- ✅ Filtering, pagination, sorting in action
-
----
 
 ## 📦 Build & Run
 
